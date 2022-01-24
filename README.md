@@ -2,13 +2,12 @@
 ## This project is currently under construction. 🚧🏗
 ### ✅ Implemented Features:
 - Authentication
-- Scraping
-
-### 📆Upcoming:
+- Data Scraping with the [Last.fm API](https://www.last.fm/api)
 - Cleaning up fetched data with Pandas
+- Exporting to CSV (UTF-8 supported!)
+### 📆Upcoming:
 - Functions for Analysis
 - Visualization
-- Exporting to CSV (UTF-8 supported!)
 - Caching fetched files for faster updates
 
 Feel free to check out the progress, but please note that the project is barely functional at this point.
