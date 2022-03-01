@@ -12,6 +12,7 @@
 - Detect full artist list with the Spoitfy / Musicbrainz API
 - Detect a Pattern for weekly favorite Songs, Artists, Albums
 - Make a Spotify Playlist with Recent Favorite Songs
+- Plot weekday-wise top artists/songs/stats
 
 Feel free to check out the progress, but please note that the project is barely functional at this point.
 Contact me at: [prathamesh.biglink.to/landing](https://prathamesh.biglink.to/landing)
